@@ -40,6 +40,6 @@ const LIST_ITEMS = [
   },
   {
     name: "AWS",
-    link: "signin.aws.amazon.com"
+    link: "https://aws.amazon.com/"
   },
 ]
