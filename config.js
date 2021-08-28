@@ -42,4 +42,8 @@ const LIST_ITEMS = [
     name: "AWS",
     link: "https://aws.amazon.com/"
   },
+  {
+    name: "Gmail",
+    link: "https://mail.google.com/mail"
+  },
 ]
