@@ -46,4 +46,8 @@ const LIST_ITEMS = [
     name: "Gmail",
     link: "https://mail.google.com/mail"
   },
+  {
+    name: "IM Guide",
+    link: "https://oldschool.runescape.wiki/w/Ironman_guide"
+  },
 ]
