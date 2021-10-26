@@ -17,7 +17,7 @@ const ICONS = [
   },
   {
     icon: "ri-github-fill",
-    link: "https://www.github.com/"
+    link: "https://github.com/M-Konvalinka"
   },
    {
     icon: "ri-money-dollar-box-fill",
